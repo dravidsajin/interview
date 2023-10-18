@@ -1,0 +1,21 @@
+# Interview Assignment
+
+Interview Assignment
+
+## Env Setup
+
+Create a .env file and copy the env variables which is mentioned in the .example.env file and paste it in the .env file.
+
+## Installation
+
+npm install
+
+## Starting the server
+
+node interview.js
+
+### Accessing API endpoints
+
+http://localhost:5000/interview is a base url
+swagger url: http://localhost:5000/api-docs
+
